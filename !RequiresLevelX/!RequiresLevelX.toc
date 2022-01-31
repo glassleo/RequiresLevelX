@@ -1,0 +1,11 @@
+## Interface: 90105
+## Title: Requires Level X
+## Notes: Displays the required level to equip or use items in item tooltips
+## Version: 9.1.5
+## Author: Leo Bolin
+
+## SavedVariables: RequiresLevelXConfig
+
+Locale.lua
+Core.lua
+Config.lua
