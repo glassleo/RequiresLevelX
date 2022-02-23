@@ -12,6 +12,6 @@ This addon simply adds that functionality back.
 
 You can easily Enable/Disable the addon via the in-game AddOns options panel.
 
-By the defualt the addon will only add "Requies Level..." to equippable items. There is an option to enable it for all items (such as consumables).
+By defualt the addon will only add "Requies Level..." to equippable items. There is an option to enable it for all items (such as consumables) if you want.
 
 ![Interface Options](https://i.imgur.com/3jGfGbb.png)
