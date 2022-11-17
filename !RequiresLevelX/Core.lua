@@ -14,7 +14,7 @@ frame:RegisterEvent("VARIABLES_LOADED")
 
 
 -- Function to add information to item tooltips
-local function GameTooltip_OnTooltipSetItem(tooltip)
+local function OnTooltipSetItem(tooltip)
 	if not RequiresLevelXConfig["AddonEnabled"] then return end
 
 	local tooltip = tooltip
@@ -65,4 +65,4 @@ end
 
 frame:SetScript("OnEvent", eventHandler)
 
-GameTooltip:HookScript("OnTooltipSetItem", GameTooltip_OnTooltipSetItem)
+TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, OnTooltipSetItem)
