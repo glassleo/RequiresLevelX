@@ -10,10 +10,10 @@ This addon simply adds that functionality back.
 
 Releases can be downloaded from:
 
-- [CurseForge](https://www.curseforge.com/wow/addons/masque_newsom)
-- [Wago Addons](https://addons.wago.io/addons/masque-newsom)
-- [WoWInterface](https://www.wowinterface.com/downloads/info21347-MasqueNewsom.html)
-- [GitHub](https://github.com/glassleo/Masque_Newsom/releases)
+- [CurseForge](https://www.curseforge.com/wow/addons/requires-level-x)
+- [Wago Addons](https://addons.wago.io/addons/requires-level-x)
+- [WoWInterface](https://www.wowinterface.com/downloads/info26114-RequiresLevelX.html)
+- [GitHub](https://github.com/glassleo/RequiresLevelX/releases)
 
 ## Options
 
