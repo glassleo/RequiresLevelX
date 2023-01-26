@@ -6,6 +6,14 @@ This is problematic in many situations, for example if you're trying to figure o
 
 This addon simply adds that functionality back.
 
+Releases can be downloaded from:
+
+- [CurseForge](https://www.curseforge.com/wow/addons/masque_newsom)
+- [Wago Addons](https://addons.wago.io/addons/masque-newsom)
+- [WoWInterface](https://www.wowinterface.com/downloads/info21347-MasqueNewsom.html)
+- [GitHub](https://github.com/glassleo/Masque_Newsom/releases)
+
+
 ![In-Game Tooltip](https://i.imgur.com/X4jJ2V3.png)
 
 ## Options
