@@ -1,7 +1,7 @@
-## Interface: 100100
+## Interface: 100105
 ## Title: Requires Level X
 ## Notes: Displays the required level to equip or use items in item tooltips
-## Version: 10.1
+## Version: 10.1.5
 ## Author: Leo
 ## IconTexture: 4200128
 
