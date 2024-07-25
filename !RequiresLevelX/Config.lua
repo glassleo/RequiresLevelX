@@ -54,4 +54,5 @@ end
 cfgFrame:Hide()
 cfgFrame:SetScript("OnShow", RequiresLevelX_cfgInitView)
 cfgFrame.name, cfgFrame.okay, cfgFrame.default = "Requires Level X", RequiresLevelX_cfgSaveView, RequiresLevelX_cfgSetDefaults
-InterfaceOptions_AddCategory(cfgFrame)
+local category, layout = Settings.RegisterCanvasLayoutCategory(cfgFrame, cfgFrame.name)
+Settings.RegisterAddOnCategory(category)
